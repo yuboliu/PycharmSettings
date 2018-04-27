@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="sftp://root@10.10.10.10:22/usr/bin/python" name="sftp://root@10.10.10.10:22/usr/bin/python" url="http://10.10.10.10">
+        <fileTransfer host="10.10.10.10" port="22" rootFolder="/root" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
