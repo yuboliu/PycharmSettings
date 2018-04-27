@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1524406663066">
+      <file name="/Dummy.txt" timestamp="1524800806094">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/pycharm/Learning/Learning.py" timestamp="1524406899958">
@@ -30,6 +30,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
+      </file>
+      <file name="G:/pycharm/Learning/Learning.py" timestamp="1524800794148">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="E:/PycharmProjects/First.py" timestamp="1524314564287">
         <mark key="[" line="6" column="43" />
