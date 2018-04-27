@@ -1,0 +1,47 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Remote Python 2.7.5 (sftp://root@192.168.239.5:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.5" />
+      <homePath value="sftp://root@192.168.239.5:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/2113028673/powerline_shell-0.4.3-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/2113028673/argparse-1.4.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/2113028673/1646051593" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/2113028673/704340502" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/2113028673/-289277395" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/2113028673/-1458322845" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/2113028673/918732847" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/2113028673" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="8ee20027-6c71-4ae3-b2f6-5e90fcb4eb82" WEB_SERVER_CONFIG_NAME="CentOS Python2" WEB_SERVER_CREDENTIALS_ID="sftp://root@192.168.239.5:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/root/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/2113028673/powerline_shell-0.4.3-py2.7.egg" remote-root="/usr/lib/python2.7/site-packages/powerline_shell-0.4.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/2113028673/argparse-1.4.0-py2.7.egg" remote-root="/usr/lib/python2.7/site-packages/argparse-1.4.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/2113028673/1646051593" remote-root="/usr/lib64/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/2113028673/704340502" remote-root="/usr/lib64/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/2113028673/-289277395" remote-root="/usr/lib64/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/2113028673/-1458322845" remote-root="/usr/lib64/python2.7/site-packages/gtk-2.0" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/2113028673/918732847" remote-root="/usr/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>

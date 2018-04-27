@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8ee20027-6c71-4ae3-b2f6-5e90fcb4eb82" name="CentOS Python2" url="http:///">
+        <fileTransfer host="192.168.239.5" port="22" rootFolder="/root" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
