@@ -6,6 +6,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="6aa68948-5809-438c-8a35-96fd771f867a" name="CentOS Python3" url="http:///">
+        <fileTransfer host="192.168.239.5" port="22" rootFolder="/root" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
