@@ -9,12 +9,12 @@
       <file name="/Dummy.txt" timestamp="1524964639375">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/pycharm/Learning/Learning.py" timestamp="1526306996085">
+      <file name="E:/pycharm/Learning/Learning.py" timestamp="1526307918541">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="55" column="4" />
-        <mark key="]" line="56" column="17" />
-        <mark key="." line="56" column="17" />
-        <mark key="^" line="56" column="17" />
+        <mark key="[" line="60" column="15" />
+        <mark key="]" line="59" column="12" />
+        <mark key="." line="59" column="12" />
+        <mark key="^" line="59" column="12" />
       </file>
       <file name="/Python Console" timestamp="1524317406854">
         <mark key="[" line="0" column="0" />
@@ -128,12 +128,12 @@
         <entry>lilv</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
         <entry>set fileformat</entry>
         <entry>set ff</entry>
         <entry>set clipboard+=unnamed</entry>
         <entry>%s/lilv/rate</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
