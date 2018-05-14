@@ -9,11 +9,12 @@
       <file name="/Dummy.txt" timestamp="1524964639375">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/pycharm/Learning/Learning.py" timestamp="1525479272781">
-        <mark key="'" line="49" column="10" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="E:/pycharm/Learning/Learning.py" timestamp="1526306996085">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="55" column="4" />
+        <mark key="]" line="56" column="17" />
+        <mark key="." line="56" column="17" />
+        <mark key="^" line="56" column="17" />
       </file>
       <file name="/Python Console" timestamp="1524317406854">
         <mark key="[" line="0" column="0" />
@@ -40,6 +41,11 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
+      <file name="E:/pycharm/Learning/practice.py" timestamp="1526306968255">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="E:/PycharmProjects/First.py" timestamp="1524314564287">
         <mark key="[" line="6" column="43" />
         <mark key="]" line="7" column="26" />
@@ -60,46 +66,50 @@
       <jump line="13" column="12" filename="E:/Learning/练习.py" />
       <jump line="31" column="6" filename="E:/Learning/Learning.py" />
       <jump line="50" column="10" filename="E:/pycharm/Learning/Learning.py" />
+      <jump line="19" column="36" filename="E:/pycharm/Learning/Learning.py" />
+      <jump line="9" column="12" filename="E:/pycharm/Learning/practice.py" />
+      <jump line="54" column="12" filename="E:/pycharm/Learning/Learning.py" />
+      <jump line="0" column="0" filename="E:/pycharm/Learning/Learning.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IyBAU2l0ZSAgICA6IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>lilv</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9weXRob24KIyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIyBAVGltZSAgICA6IDIwMTgvNC8yMiAxMDo0MgojIEBBdXRob3IgIDogTGl1WXVCbwojIEBGaWxlICAgIDogwbfPsC5weQojIEBTb2Z0d2FyZTogUHlDaGFybQoKcHJpbnQgJ3RoZSBzdW0gaXM6ICcgKyBzdHIoaW50KHJhd19pbnB1dCgiaW5wdXQgYSBudW1iZXI6ICIpKStpbnQocmF3X2lucHV0KCJpbnB1dCBhIG51bWJlcjogIikpKQo=</text>
+        <text encoding="base64">Zm9yIHZhciBpbiByYW5nZSgxLDEwKToKICAgIHByaW50IHZhcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBARmlsZSAgICA6IHByYWN0aWNlLnB5Cg==</text>
+        <text encoding="base64">aSA9IDAKZm9yIHZhciBpbiBbJ0MnLCdqcycsJ3B5dGhvbicsJ2pzJywnY3NzJywnanMnLCdodG1sJywnbm9kZSddOgogICAgaWYgdmFyID09ICdqcyc6CiAgICAgICAgaSA9IGkrMQpwcmludCBpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW5wdXQoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50IHZhcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cm1vbmV5ID0gMTAwMDAKcmF0ZSA9IDAuMDMzCmV4cGVjdGF0aW9uID0gMjAwMDAKeWVhciA9IDAKd2hpbGUgbW9uZXkgPCBleHBlY3RhdGlvbjoKICAgIG1vbmV5ID0gIHJvdW5kKG1vbmV5KigxICsgcmF0ZSksMykKICAgIHllYXIgKz0gMQpwcmludCB5ZWFyCnByaW50ICIlLjJmIiAlIG1vbmV5Cg==</text>
+        <text encoding="base64">Zm9yIHZhciBpbiByYW5nZSgxLDEwKToKICAgIHByaW50IHZhcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SQo=</text>
+        <text encoding="base64">ICAgIFN1cHBsZW1lbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpCg==</text>
+        <text encoding="base64">IyBARmlsZSAgICA6IHByYWN0aWNlLnB5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">aW5wdXQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoKQo=</text>
+        <text encoding="base64">Cm1vbmV5ID0gMTAwMDAKcmF0ZSA9IDAuMDMzCmV4cGVjdGF0aW9uID0gMjAwMDAKeWVhciA9IDAKd2hpbGUgbW9uZXkgPCBleHBlY3RhdGlvbjoKICAgIG1vbmV5ID0gIHJvdW5kKG1vbmV5KigxICsgcmF0ZSksMykKICAgIHllYXIgKz0gMQpwcmludCB5ZWFyCnByaW50ICIlLjJmIiAlIG1vbmV5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50IGRkbW9uZXkK</text>
+        <text encoding="base64">SQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50IDEgKyBsaWx2ZGQK</text>
+        <text encoding="base64">cHJpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
