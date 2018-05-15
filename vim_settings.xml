@@ -9,12 +9,11 @@
       <file name="/Dummy.txt" timestamp="1524964639375">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/pycharm/Learning/Learning.py" timestamp="1526307918541">
+      <file name="E:/pycharm/Learning/Learning.py" timestamp="1526394748771">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="60" column="15" />
-        <mark key="]" line="59" column="12" />
-        <mark key="." line="59" column="12" />
-        <mark key="^" line="59" column="12" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="/Python Console" timestamp="1524317406854">
         <mark key="[" line="0" column="0" />
@@ -41,7 +40,7 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="E:/pycharm/Learning/practice.py" timestamp="1526306968255">
+      <file name="E:/pycharm/Learning/practice.py" timestamp="1526394702301">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -82,34 +81,34 @@
         <text>lilv</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Zm9yIHZhciBpbiByYW5nZSgxLDEwKToKICAgIHByaW50IHZhcgo=</text>
+        <text encoding="base64">IyB3aGlsZSBUcnVlOyBicmVhawppID0gMAp3aGlsZSBUcnVlOgogICAgaWYgaSA+IDM6CiAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aSA9IDAKZm9yIHZhciBpbiBbJ0MnLCdqcycsJ3B5dGhvbicsJ2pzJywnY3NzJywnanMnLCdodG1sJywnbm9kZSddOgogICAgaWYgdmFyID09ICdqcyc6CiAgICAgICAgaSA9IGkrMQpwcmludCBpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50IHZhcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Zm9yIHZhciBpbiByYW5nZSgxLDEwKToKICAgIHByaW50IHZhcgo=</text>
+        <text encoding="base64">IyB3aGlsZSBUcnVlOyBicmVhawppID0gMAp3aGlsZSBUcnVlOgogICAgaWYgaSA+IDM6CiAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN1cHBsZW1lbnQK</text>
+        <text encoding="base64">IyB3aGlsZSBUcnVlOyBicmVhawppID0gMAp3aGlsZSBUcnVlOgogICAgaSArPSAxCiAgICBpZiBpID4gMzoKICAgICAgICBwcmludCBpCiAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBARmlsZSAgICA6IHByYWN0aWNlLnB5Cg==</text>
+        <text encoding="base64">aSA9IDAKZm9yIHZhciBpbiBbJ0MnLCdqcycsJ3B5dGhvbicsJ2pzJywnY3NzJywnanMnLCdodG1sJywnbm9kZSddOgogICAgaWYgdmFyID09ICdqcyc6CiAgICAgICAgaSA9IGkrMQpwcmludCBpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW5wdXQoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50IHZhcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cm1vbmV5ID0gMTAwMDAKcmF0ZSA9IDAuMDMzCmV4cGVjdGF0aW9uID0gMjAwMDAKeWVhciA9IDAKd2hpbGUgbW9uZXkgPCBleHBlY3RhdGlvbjoKICAgIG1vbmV5ID0gIHJvdW5kKG1vbmV5KigxICsgcmF0ZSksMykKICAgIHllYXIgKz0gMQpwcmludCB5ZWFyCnByaW50ICIlLjJmIiAlIG1vbmV5Cg==</text>
+        <text encoding="base64">Zm9yIHZhciBpbiByYW5nZSgxLDEwKToKICAgIHByaW50IHZhcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SQo=</text>
+        <text encoding="base64">ICAgIFN1cHBsZW1lbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpCg==</text>
+        <text encoding="base64">IyBARmlsZSAgICA6IHByYWN0aWNlLnB5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
