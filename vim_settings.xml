@@ -9,7 +9,7 @@
       <file name="/Dummy.txt" timestamp="1524964639375">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/pycharm/Learning/Learning.py" timestamp="1526400461044">
+      <file name="E:/pycharm/Learning/Learning.py" timestamp="1526484712500">
         <mark key="'" line="85" column="20" />
         <mark key="[" line="90" column="0" />
         <mark key="]" line="97" column="13" />
@@ -85,8 +85,8 @@
       <register name="/" type="4">
         <text>lilv</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">U3RhdERpY3QgPSB7J2ZpcnN0JzogTm9uZSwgJ3NlY29uZGFyeSc6IE5vbmV9CmZvciB2YXIgaW4gWzEsIDIsIDMsIDQsIDVdOgogICAgaWYgdmFyID4gU3RhdERpY3RbJ2ZpcnN0J106CiAgICAgICAgU3RhdERpY3RbJ3NlY29uZGFyeSddID0gU3RhdERpY3RbJ2ZpcnN0J10KICAgICAgICBTdGF0RGljdFsnZmlyc3QnXSA9IHZhcgogICAgZWxpZiB2YXIgPiBTdGF0RGljdFsnc2Vjb25kYXJ5J106CiAgICAgICAgU3RhdERpY3RbJ3NlY29uZGFyeSddID0gdmFyCnByaW50IFN0YXREaWN0Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">U3RhdERpY3QgPSB7J2ZpcnN0JzogTm9uZSwgJ3NlY29uZGFyeSc6IE5vbmV9CmZvciB2YXIgaW4gWzEsIDIsIDMsIDQsIDVdOgogICAgaWYgdmFyID4gU3RhdERpY3RbJ2ZpcnN0J106CiAgICAgICAgU3RhdERpY3RbJ3NlY29uZGFyeSddID0gU3RhdERpY3RbJ2ZpcnN0J10KICAgICAgICBTdGF0RGljdFsnZmlyc3QnXSA9IHZhcgogICAgZWxpZiB2YXIgPiBTdGF0RGljdFsnc2Vjb25kYXJ5J106CiAgICAgICAgU3RhdERpY3RbJ3NlY29uZGFyeSddID0gdmFyCnByaW50IFN0YXREaWN0</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
