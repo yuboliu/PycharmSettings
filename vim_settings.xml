@@ -9,12 +9,12 @@
       <file name="/Dummy.txt" timestamp="1524964639375">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/pycharm/Learning/Learning.py" timestamp="1527166193963">
+      <file name="E:/pycharm/Learning/Learning.py" timestamp="1527511589875">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="6" />
-        <mark key="^" line="12" column="6" />
-        <mark key="." line="12" column="6" />
+        <mark key="[" line="47" column="11" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="/Python Console" timestamp="1526488976479">
         <mark key="[" line="0" column="7" />
@@ -43,10 +43,11 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="E:/pycharm/Learning/practice.py" timestamp="1527166313533">
+      <file name="E:/pycharm/Learning/practice.py" timestamp="1527511573836">
         <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="]" line="17" column="10" />
+        <mark key="." line="17" column="10" />
+        <mark key="^" line="17" column="10" />
       </file>
       <file name="E:/PycharmProjects/First.py" timestamp="1524314564287">
         <mark key="[" line="6" column="43" />
@@ -91,7 +92,7 @@
         <text>lilv</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TmFtZSA9ICJYaWFvTWluZyIKQWdlID0gIjIwIgpKb2IgPSAiSVQiCmluZm8gPSAnJycKLS0tLS0tLS0tLS0tLS0gaW5mbyBvZiAlcyAtLS0tLS0tLS0tLS0tLS0KTmFtZSA6ICVzCkFnZSA6ICVzCkpvYiA6ICVzCicnJyAlIChOYW1lLE5hbWUsQWdlLEpvYikKcHJpbnQoaW5mbykK</text>
+        <text encoding="base64">IyC48cq9u6/K5LP2IENhc2UyCk5hbWUgPSAiWGlhb01pbmciCkFnZSA9ICIyMCIKSm9iID0gIklUIgppbmZvID0gJycnCi0tLS0tLS0tLS0tLS0tIGluZm8gb2YgezB9IC0tLS0tLS0tLS0tLS0tLQpOYW1lIDogezB9CkFnZSA6IHsxfQpKb2IgOiB7Mn0KJycnLmZvcm1hdChOYW1lLEFnZSxKb2IpCnByaW50KGluZm8pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">TmFtZSA9ICJYaWFvTWluZyIKQWdlID0gIjIwIgpKb2IgPSAiSVQiCmluZm8gPSAnJycKLS0tLS0tLS0tLS0tLS0gaW5mbyBvZiAlcyAtLS0tLS0tLS0tLS0tLS0KTmFtZSA6ICVzCkFnZSA6ICVzCkpvYiA6ICVzCicnJyAlIChOYW1lLE5hbWUsQWdlLEpvYikKcHJpbnQoaW5mbykKCg==</text>
