@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1526572501207">
+      <file name="/start_script.py" timestamp="1528216673713">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1524964639375">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/pycharm/Learning/Learning.py" timestamp="1527685319408">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="3" />
-        <mark key="^" line="104" column="3" />
-        <mark key="." line="104" column="3" />
+      <file name="E:/pycharm/Learning/Learning.py" timestamp="1528218661686">
+        <mark key="'" line="151" column="24" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="^" line="142" column="11" />
+        <mark key="." line="159" column="0" />
       </file>
       <file name="/Python Console" timestamp="1527687420376">
         <mark key="[" line="0" column="0" />
@@ -46,10 +46,10 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="E:/pycharm/Learning/practice.py" timestamp="1527938191911">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="E:/pycharm/Learning/practice.py" timestamp="1528218656174">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="E:/PycharmProjects/First.py" timestamp="1524314564287">
         <mark key="[" line="6" column="43" />
@@ -82,62 +82,70 @@
       <jump line="96" column="0" filename="E:/pycharm/Learning/Learning.py" />
       <jump line="12" column="0" filename="E:/pycharm/Learning/Learning.py" />
       <jump line="0" column="0" filename="E:/pycharm/Learning/Learning.py" />
+      <jump line="141" column="0" filename="E:/pycharm/Learning/Learning.py" />
+      <jump line="22" column="0" filename="E:/pycharm/Learning/practice.py" />
+      <jump line="6" column="0" filename="E:/pycharm/Learning/practice.py" />
+      <jump line="23" column="0" filename="E:/pycharm/Learning/practice.py" />
+      <jump line="158" column="0" filename="E:/pycharm/Learning/Learning.py" />
+      <jump line="151" column="24" filename="E:/pycharm/Learning/Learning.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IyBAU2l0ZSAgICA6IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>lilv</text>
+        <text encoding="base64">XDxhcHBlbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9zClJlVmFsdWUgPSBvcy5wb3BlbigicHdkIikucmVhZCgpCnByaW50KFJlVmFsdWUpCg==</text>
+        <text encoding="base64">QW5pbWFsLnNldGRlZmF1bHQoJ0RyYWdvbicsICdDaGluYScpCnByaW50IChBbmltYWwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bXlzdHIgPSAiMTIzIgpteXN0ci5pCg==</text>
+        <text encoding="base64">cHJpbnQgKEFuaW1hbCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aSA9IDAKd2hpbGUgaSA8IDM6CiAgICBwcmludChpKQogICAgaWYgaSA9PSAyOgogICAgICAgIHBhc3MKICAgIGkgKz0gMQplbHNlOgogICAgcHJpbnQoInRoaXMgaXMgZWxzZSIpCgo=</text>
+        <text encoding="base64">QW5pbWFsLnNldGRlZmF1bHQoJ0RyYWdvbicsICdDaGluYScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aSA9IDAKd2hpbGUgaSA8IDM6CiAgICBwcmludChpKQogICAgaWYgaSA9PSAyOgogICAgICAgIHBhc3MKICAgIGkgKz0gMQplbHNlOgogICAgcHJpbnQoInRoaXMgaXMgZWxzZSIpCg==</text>
+        <text encoding="base64">QW5pbWFsID0gewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiZGVhawo=</text>
+        <text encoding="base64">ICAgICdEb2dzJyA6IHsKICAgICAgICAnuf7Kv8bmJyA6ICe2/rn+JywKICAgICAgICAnufOx9siuJzogJ8yptc8nLAogICAgICAgICfI+MSm0q4nIDogJ8j4xKYnLAogICAgICAgICeyqcPAJyA6IE5vbmUKICAgIH0sCiAgICAnQ2F0cycgOiB7CiAgICAgICAgJ9XbtvrDqCcgOiAnusPP8cO709C2+rbkJywKICAgICAgICAnsrzFvMOoJyA6ICfN5sW80rvR+ScsCiAgICAgICAgJ+nZw6gnIDogWycxMNa76dnDqDnWu8XWo6y7udPQ0rvWu8zYsfDF1icsICe+zcrHxdYnXQogICAgfQp9CkFuaW1hbC5zZXRkZWZhdWx0KCe5/sq/xuYnLCBOb25lKQpwcmludCAoQW5pbWFsKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aSA9IDAKZm9yIHZhciBpbiBbJ0MnLCdqcycsJ3B5dGhvbicsJ2pzJywnY3NzJywnanMnLCdodG1sJywnbm9kZSddOgogICAgaWYgdmFyID09ICdqcyc6CiAgICAgICAgaSArPSAxCmVsc2U6CiAgICBwcmludChpKQo=</text>
+        <text encoding="base64">ICAgICdEb2dzJyA6IHsKICAgICAgICAnuf7Kv8bmJyA6ICe2/rn+JywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnufOx9siuJzogJ8yptc8nLAogICAgICAgICfI+MSm0q4nIDogJ8j4xKYnLAogICAgICAgICeyqcPAJyA6IE5vbmUKICAgIH0sCiAgICAnQ2F0cycgOiB7CiAgICAgICAgJ9XbtvrDqCcgOiAnusPP8cO709C2+rbkJywKICAgICAgICAnsrzFvMOoJyA6ICfN5sW80rvR+ScsCiAgICAgICAgJ+nZw6gnIDogWycxMNa76dnDqDnWu8XWo6y7udPQ0rvWu8zYsfDF1icsICe+zcrHxdYnXQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aT0wCndoaWxlIGkgPCAxMDoKICAgIHByaW50KGkpCiAgICBpID0gaSsxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q291bnQgPSAwCndoaWxlIENvdW50IDwgMzoKICAgIHByaW50KENvdW50KQogICAgQ291bnQgKz0gMQplbHNlOgogICAgcHJpbnQoInRoaXMgaXMgZWxzZS4iKQo=</text>
+        <text encoding="base64">ZCA9IHt9ICMgQSByZWd1bGFyIGRpY3Rpb25hcnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGdldHBhc3MKdXNlcm5hbWUgPSBpbnB1dCgidXNlcm5hbWU6IikKcGFzc3dvcmQgPSBnZXRwYXNzLmdldHBhc3MoInBhc3N3b3JkOiIpCnByaW50KHVzZXJuYW1lLHBhc3N3b3JkKQo=</text>
+        <text encoding="base64">ZC5zZXRkZWZhdWx0KCdhJywgW10pLmFwcGVuZCgxKQpkLnNldGRlZmF1bHQoJ2EnLCBbXSkuYXBwZW5kKDIpCmQuc2V0ZGVmYXVsdCgnYicsIFtdKS5hcHBlbmQoNCkKcHJpbnQgKGQpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lilv</last-search>
-      <last-pattern>lilv</last-pattern>
+      <last-search encoding="base64">XDxhcHBlbmRcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxhcHBlbmRcPg==</last-pattern>
       <last-replace>rate</last-replace>
       <last-substitute>lilv</last-substitute>
-      <last-dir>0</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>lilv</entry>
+        <entry encoding="base64">XDxhcHBlbmRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set fileformat</entry>
@@ -145,8 +153,8 @@
         <entry>set clipboard+=unnamed</entry>
         <entry>%s/lilv/rate</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -190,6 +198,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
