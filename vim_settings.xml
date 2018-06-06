@@ -9,10 +9,10 @@
       <file name="/Dummy.txt" timestamp="1524964639375">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/pycharm/Learning/Learning.py" timestamp="1528218661686">
-        <mark key="'" line="151" column="24" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
+      <file name="E:/pycharm/Learning/Learning.py" timestamp="1528294551364">
+        <mark key="'" line="124" column="10" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="155" column="0" />
         <mark key="^" line="142" column="11" />
         <mark key="." line="159" column="0" />
       </file>
@@ -46,10 +46,11 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="E:/pycharm/Learning/practice.py" timestamp="1528218656174">
+      <file name="E:/pycharm/Learning/practice.py" timestamp="1528294648309">
+        <mark key="'" line="21" column="11" />
         <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="E:/PycharmProjects/First.py" timestamp="1524314564287">
         <mark key="[" line="6" column="43" />
@@ -88,6 +89,8 @@
       <jump line="23" column="0" filename="E:/pycharm/Learning/practice.py" />
       <jump line="158" column="0" filename="E:/pycharm/Learning/Learning.py" />
       <jump line="151" column="24" filename="E:/pycharm/Learning/Learning.py" />
+      <jump line="124" column="10" filename="E:/pycharm/Learning/Learning.py" />
+      <jump line="21" column="11" filename="E:/pycharm/Learning/practice.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -99,35 +102,49 @@
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBlbmRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QW5pbWFsLnNldGRlZmF1bHQoJ0RyYWdvbicsICdDaGluYScpCnByaW50IChBbmltYWwpCg==</text>
+      <register name="0" type="4">
+        <text>Animal = {
+    'Dogs' : {
+        '哈士奇' : '二哈',
+        '贵宾犬': '泰迪',
+        '萨摩耶' : '萨摩',
+        '博美' : None
+    },
+    'Cats' : {
+        '折耳猫' : '好像没有耳朵',
+        '布偶猫' : '玩偶一样',
+        '橘猫' : ['10只橘猫9只胖，还有一只特别胖', '就是胖']
+    }
+}
+for i in Animal['Dogs']:
+    print (i)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQgKEFuaW1hbCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QW5pbWFsLnNldGRlZmF1bHQoJ0RyYWdvbicsICdDaGluYScpCg==</text>
+        <text encoding="base64">cHJpbnQgKEFuaW1hbCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QW5pbWFsID0gewo=</text>
+        <text encoding="base64">QW5pbWFsLnNldGRlZmF1bHQoJ0RyYWdvbicsICdDaGluYScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdEb2dzJyA6IHsKICAgICAgICAnuf7Kv8bmJyA6ICe2/rn+JywKICAgICAgICAnufOx9siuJzogJ8yptc8nLAogICAgICAgICfI+MSm0q4nIDogJ8j4xKYnLAogICAgICAgICeyqcPAJyA6IE5vbmUKICAgIH0sCiAgICAnQ2F0cycgOiB7CiAgICAgICAgJ9XbtvrDqCcgOiAnusPP8cO709C2+rbkJywKICAgICAgICAnsrzFvMOoJyA6ICfN5sW80rvR+ScsCiAgICAgICAgJ+nZw6gnIDogWycxMNa76dnDqDnWu8XWo6y7udPQ0rvWu8zYsfDF1icsICe+zcrHxdYnXQogICAgfQp9CkFuaW1hbC5zZXRkZWZhdWx0KCe5/sq/xuYnLCBOb25lKQpwcmludCAoQW5pbWFsKQo=</text>
+        <text encoding="base64">QW5pbWFsID0gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdEb2dzJyA6IHsKICAgICAgICAnuf7Kv8bmJyA6ICe2/rn+JywK</text>
+        <text encoding="base64">ICAgICdEb2dzJyA6IHsKICAgICAgICAnuf7Kv8bmJyA6ICe2/rn+JywKICAgICAgICAnufOx9siuJzogJ8yptc8nLAogICAgICAgICfI+MSm0q4nIDogJ8j4xKYnLAogICAgICAgICeyqcPAJyA6IE5vbmUKICAgIH0sCiAgICAnQ2F0cycgOiB7CiAgICAgICAgJ9XbtvrDqCcgOiAnusPP8cO709C2+rbkJywKICAgICAgICAnsrzFvMOoJyA6ICfN5sW80rvR+ScsCiAgICAgICAgJ+nZw6gnIDogWycxMNa76dnDqDnWu8XWo6y7udPQ0rvWu8zYsfDF1icsICe+zcrHxdYnXQogICAgfQp9CkFuaW1hbC5zZXRkZWZhdWx0KCe5/sq/xuYnLCBOb25lKQpwcmludCAoQW5pbWFsKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnufOx9siuJzogJ8yptc8nLAogICAgICAgICfI+MSm0q4nIDogJ8j4xKYnLAogICAgICAgICeyqcPAJyA6IE5vbmUKICAgIH0sCiAgICAnQ2F0cycgOiB7CiAgICAgICAgJ9XbtvrDqCcgOiAnusPP8cO709C2+rbkJywKICAgICAgICAnsrzFvMOoJyA6ICfN5sW80rvR+ScsCiAgICAgICAgJ+nZw6gnIDogWycxMNa76dnDqDnWu8XWo6y7udPQ0rvWu8zYsfDF1icsICe+zcrHxdYnXQogICAgfQo=</text>
+        <text encoding="base64">ICAgICdEb2dzJyA6IHsKICAgICAgICAnuf7Kv8bmJyA6ICe2/rn+JywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnufOx9siuJzogJ8yptc8nLAogICAgICAgICfI+MSm0q4nIDogJ8j4xKYnLAogICAgICAgICeyqcPAJyA6IE5vbmUKICAgIH0sCiAgICAnQ2F0cycgOiB7CiAgICAgICAgJ9XbtvrDqCcgOiAnusPP8cO709C2+rbkJywKICAgICAgICAnsrzFvMOoJyA6ICfN5sW80rvR+ScsCiAgICAgICAgJ+nZw6gnIDogWycxMNa76dnDqDnWu8XWo6y7udPQ0rvWu8zYsfDF1icsICe+zcrHxdYnXQogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZCA9IHt9ICMgQSByZWd1bGFyIGRpY3Rpb25hcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZC5zZXRkZWZhdWx0KCdhJywgW10pLmFwcGVuZCgxKQpkLnNldGRlZmF1bHQoJ2EnLCBbXSkuYXBwZW5kKDIpCmQuc2V0ZGVmYXVsdCgnYicsIFtdKS5hcHBlbmQoNCkKcHJpbnQgKGQpCg==</text>
+        <text encoding="base64">ZCA9IHt9ICMgQSByZWd1bGFyIGRpY3Rpb25hcnkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
