@@ -46,10 +46,10 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="E:/pycharm/Learning/practice.py" timestamp="1528294648309">
+      <file name="E:/pycharm/Learning/practice.py" timestamp="1528297555275">
         <mark key="'" line="21" column="11" />
         <mark key="[" line="7" column="0" />
-        <mark key="]" line="21" column="12" />
+        <mark key="]" line="23" column="12" />
         <mark key="." line="22" column="0" />
       </file>
       <file name="E:/PycharmProjects/First.py" timestamp="1524314564287">
@@ -117,6 +117,8 @@
     }
 }
 for i in Animal['Dogs']:
+    print (i)
+for i in Animal['Cats']['橘猫']:
     print (i)</text>
       </register>
       <register name="1" type="2">
