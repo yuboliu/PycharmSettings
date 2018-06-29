@@ -9,13 +9,6 @@
       <file name="/Dummy.txt" timestamp="1530172576204">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/pycharm/Learning/Learning.py" timestamp="1530173981418">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="165" column="30" />
-        <mark key="^" line="142" column="11" />
-        <mark key="." line="159" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1527687420376">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -24,6 +17,12 @@
       <file name="/fragment.py" timestamp="1527687411394">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/pycharm/Learning/双层装饰器.py" timestamp="1530257358745">
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="23" column="26" />
+        <mark key="^" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+      </file>
       <file name="E:/Learning/Learning.py" timestamp="1524406001184">
         <mark key="'" line="31" column="6" />
         <mark key="[" line="47" column="0" />
@@ -31,14 +30,8 @@
         <mark key="." line="51" column="39" />
         <mark key="^" line="51" column="39" />
       </file>
-      <file name="/a.dummy" timestamp="1524406052993">
+      <file name="/a.dummy" timestamp="1530257093260">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Learning/练习.py" timestamp="1524400637387">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
       </file>
       <file name="G:/pycharm/Learning/Learning.py" timestamp="1524800794148">
         <mark key="[" line="12" column="21" />
@@ -46,11 +39,24 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="E:/pycharm/Learning/practice.py" timestamp="1530244069485">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="26" column="19" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="25" column="17" />
+      <file name="E:/pycharm/Learning/practice.py" timestamp="1530257083853">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="24" column="17" />
+      </file>
+      <file name="E:/pycharm/Learning/Learning.py" timestamp="1530173981418">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="165" column="30" />
+        <mark key="^" line="142" column="11" />
+        <mark key="." line="159" column="0" />
+      </file>
+      <file name="E:/Learning/练习.py" timestamp="1524400637387">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="E:/PycharmProjects/First.py" timestamp="1524314564287">
         <mark key="[" line="6" column="43" />
@@ -100,7 +106,7 @@
         <text encoding="base64">IyBAU2l0ZSAgICA6IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpdF9pc19wYXNzXD4=</text>
@@ -128,27 +134,30 @@ it_is_pass()
 it_is_ok(&quot;it is ok&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBARmlsZSAgICA6IHByYWN0aWNlLnB5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aXRfaXNfcGFzcygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHRpbWVyCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">aXRfaXNfcGFzcygpCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">QHRpbWVyCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBpdF9pc19wYXNzID0gdGltZXIoaXRfaXNfcGFzcykK</text>
+        <text encoding="base64">aXRfaXNfcGFzcygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aXRfaXNfcGFzcyA9IHRpbWVyKGl0X2lzX3Bhc3MpCg==</text>
+        <text encoding="base64">IyBpdF9pc19wYXNzID0gdGltZXIoaXRfaXNfcGFzcykK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">aXRfaXNfcGFzcyA9IHRpbWVyKGl0X2lzX3Bhc3MpCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aXRfaXNfcGFzcyA9IGNhbGNfdGltZShpdF9pc19wYXNzKQppdF9pc19wYXNzKCkK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>def calc_time(func):
     start_time = time.time()
     stop_time = time.time()
@@ -160,9 +169,6 @@ def it_is_pass():
 
 it_is_pass = calc_time(it_is_pass)
 it_is_pass()</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCI9PT09PT09IikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
