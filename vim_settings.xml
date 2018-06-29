@@ -46,11 +46,11 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="E:/pycharm/Learning/practice.py" timestamp="1530175268889">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="17" column="20" />
-        <mark key="." line="15" column="17" />
-        <mark key="^" line="15" column="17" />
+      <file name="E:/pycharm/Learning/practice.py" timestamp="1530241089224">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="E:/PycharmProjects/First.py" timestamp="1524314564287">
         <mark key="[" line="6" column="43" />
@@ -91,6 +91,8 @@
       <jump line="21" column="11" filename="E:/pycharm/Learning/practice.py" />
       <jump line="158" column="0" filename="E:/pycharm/Learning/Learning.py" />
       <jump line="0" column="0" filename="E:/pycharm/Learning/Learning.py" />
+      <jump line="13" column="14" filename="E:/pycharm/Learning/practice.py" />
+      <jump line="8" column="0" filename="E:/pycharm/Learning/practice.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -105,36 +107,42 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHRpbWUKZGVmIGNhbGNfdGltZShmdW5jKToKICAgIHN0YXJ0X3RpbWUgPSB0aW1lLnRpbWUoKQogICAgZnVuYygpCiAgICBzdG9wX3RpbWUgPSB0aW1lLnRpbWUoKQogICAgcHJpbnQgKCJ0aGUgZnVuYyBydW4gdGltZSBpcyAlLjJmIiAlKHN0b3BfdGltZSAtIHN0YXJ0X3RpbWUpKQoKZGVmIGl0X2lzX3Bhc3MoKToKICAgIHByaW50KCI9PT09PT09IikKCmNhbGNfdGltZShpdF9pc19wYXNzKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcnJzEyMwoxMjMKMTIzCjEyMycnJykK</text>
+      <register name="1" type="4">
+        <text>def calc_time(func):
+    start_time = time.time()
+    stop_time = time.time()
+    print (&quot;the func run time is %.2f&quot; %(stop_time - start_time))
+    return func
+
+def it_is_pass():
+    time.sleep(1)
+
+it_is_pass = calc_time(it_is_pass)
+it_is_pass()</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoJycnMTIzCjEyMwoxMjMKMTIzJycnKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCI9PT09PT09IikK</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50ICgidGhlIGZ1bmMgcnVuIHRpbWUgaXMgJS4yZiIgJShzdG9wX3RpbWUgLSBzdGFydF90aW1lKSkK</text>
       </register>
-      <register name="4" type="8">
-        <text>&quot;
-&quot;
-&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHN0b3BfdGltZSA9IHRpbWUudGltZSgpCg==</text>
       </register>
-      <register name="5" type="8">
-        <text>&quot;
-&quot;
-&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZ1bmMoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">b3IgaiBpbiByYW5nZSgxLDEwKToKICAgZm9yIGkgaW4gcmFuZ2UoMSwxMCk6CiAgICAgICBpZiBpID4gajoKICAgICAgICAgICBicmVhawogICAgICAgcHJpbnQoaSwiKiIsaiwiPSIsaSpqLCIgIixlbmQ9JycpCiAgIHByaW50KCIiKQo=</text>
+        <text encoding="base64">Y2FsY190aW1lKGl0X2lzX3Bhc3MpCg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ZgogCiAKIAogCiA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50KCcnJzEyMwoxMjMKMTIzCjEyMycnJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9yIGogaW4gcmFuZ2UoMSwxMCk6CiAgICBmb3IgaSBpbiByYW5nZSgxLDEwKToKICAgICAgICBpZiBpID4gajoKICAgICAgICAgICAgYnJlYWsKICAgICAgICBwcmludChpLCIqIixqLCI9IixpKmosIiAiLGVuZD0nJykKICAgIHByaW50KCIiKQo=</text>
+        <text encoding="base64">cHJpbnQoJycnMTIzCjEyMwoxMjMKMTIzJycnKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpLCIqIixqLCI9IixpKmosIiAiLGVuZD0nJykK</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
