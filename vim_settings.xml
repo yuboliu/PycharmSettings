@@ -46,11 +46,11 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="E:/pycharm/Learning/practice.py" timestamp="1530241089224">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="E:/pycharm/Learning/practice.py" timestamp="1530244069485">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="26" column="19" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="25" column="17" />
       </file>
       <file name="E:/PycharmProjects/First.py" timestamp="1524314564287">
         <mark key="[" line="6" column="43" />
@@ -83,31 +83,72 @@
       <jump line="96" column="0" filename="E:/pycharm/Learning/Learning.py" />
       <jump line="12" column="0" filename="E:/pycharm/Learning/Learning.py" />
       <jump line="141" column="0" filename="E:/pycharm/Learning/Learning.py" />
-      <jump line="22" column="0" filename="E:/pycharm/Learning/practice.py" />
       <jump line="6" column="0" filename="E:/pycharm/Learning/practice.py" />
       <jump line="23" column="0" filename="E:/pycharm/Learning/practice.py" />
       <jump line="151" column="24" filename="E:/pycharm/Learning/Learning.py" />
       <jump line="124" column="10" filename="E:/pycharm/Learning/Learning.py" />
-      <jump line="21" column="11" filename="E:/pycharm/Learning/practice.py" />
       <jump line="158" column="0" filename="E:/pycharm/Learning/Learning.py" />
       <jump line="0" column="0" filename="E:/pycharm/Learning/Learning.py" />
       <jump line="13" column="14" filename="E:/pycharm/Learning/practice.py" />
       <jump line="8" column="0" filename="E:/pycharm/Learning/practice.py" />
+      <jump line="18" column="4" filename="E:/pycharm/Learning/practice.py" />
+      <jump line="22" column="0" filename="E:/pycharm/Learning/practice.py" />
+      <jump line="21" column="19" filename="E:/pycharm/Learning/practice.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IyBAU2l0ZSAgICA6IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBlbmRcPg==</text>
+        <text encoding="base64">XDxpdF9pc19wYXNzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUKZGVmIGNhbGNfdGltZShmdW5jKToKICAgIHN0YXJ0X3RpbWUgPSB0aW1lLnRpbWUoKQogICAgZnVuYygpCiAgICBzdG9wX3RpbWUgPSB0aW1lLnRpbWUoKQogICAgcHJpbnQgKCJ0aGUgZnVuYyBydW4gdGltZSBpcyAlLjJmIiAlKHN0b3BfdGltZSAtIHN0YXJ0X3RpbWUpKQoKZGVmIGl0X2lzX3Bhc3MoKToKICAgIHByaW50KCI9PT09PT09IikKCmNhbGNfdGltZShpdF9pc19wYXNzKQo=</text>
+      <register name="0" type="4">
+        <text>import time
+
+def timer(func):
+    def deco(*args,**kwargs):
+        start_time = time.time()
+        func(*args,**kwargs)
+        stop_time = time.time()
+        print (&quot;the func run time is %f&quot; %(stop_time - start_time))
+    return deco
+
+@timer # it_is_pass = timer(it_is_pass)
+def it_is_pass():
+    print(&quot;it is pass&quot;)
+
+@timer
+def it_is_ok(name):
+    print (name)
+
+it_is_pass()
+it_is_ok(&quot;it is ok&quot;)</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aXRfaXNfcGFzcygpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">QHRpbWVyCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aXRfaXNfcGFzcygpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBpdF9pc19wYXNzID0gdGltZXIoaXRfaXNfcGFzcykK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aXRfaXNfcGFzcyA9IHRpbWVyKGl0X2lzX3Bhc3MpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aXRfaXNfcGFzcyA9IGNhbGNfdGltZShpdF9pc19wYXNzKQppdF9pc19wYXNzKCkK</text>
+      </register>
+      <register name="8" type="4">
         <text>def calc_time(func):
     start_time = time.time()
     stop_time = time.time()
@@ -120,38 +161,17 @@ def it_is_pass():
 it_is_pass = calc_time(it_is_pass)
 it_is_pass()</text>
       </register>
-      <register name="2" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHByaW50KCI9PT09PT09IikK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50ICgidGhlIGZ1bmMgcnVuIHRpbWUgaXMgJS4yZiIgJShzdG9wX3RpbWUgLSBzdGFydF90aW1lKSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0b3BfdGltZSA9IHRpbWUudGltZSgpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1bmMoKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y2FsY190aW1lKGl0X2lzX3Bhc3MpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcnJzEyMwoxMjMKMTIzCjEyMycnJykK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoJycnMTIzCjEyMwoxMjMKMTIzJycnKQo=</text>
-      </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBlbmRcPg==</last-search>
+      <last-search encoding="base64">XDxpdF9pc19wYXNzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBlbmRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpdF9pc19wYXNzXD4=</last-pattern>
       <last-replace>rate</last-replace>
       <last-substitute>lilv</last-substitute>
       <last-dir>-1</last-dir>
@@ -161,6 +181,7 @@ it_is_pass()</text>
       <history-search>
         <entry>lilv</entry>
         <entry encoding="base64">XDxhcHBlbmRcPg==</entry>
+        <entry encoding="base64">XDxpdF9pc19wYXNzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set fileformat</entry>
