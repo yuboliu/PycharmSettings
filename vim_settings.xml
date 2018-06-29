@@ -17,11 +17,12 @@
       <file name="/fragment.py" timestamp="1527687411394">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/pycharm/Learning/双层装饰器.py" timestamp="1530257358745">
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="23" column="26" />
-        <mark key="^" line="23" column="26" />
-        <mark key="." line="23" column="26" />
+      <file name="E:/pycharm/Learning/双层装饰器.py" timestamp="1530258181524">
+        <mark key="'" line="23" column="7" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="17" column="21" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="E:/Learning/Learning.py" timestamp="1524406001184">
         <mark key="'" line="31" column="6" />
@@ -100,6 +101,9 @@
       <jump line="18" column="4" filename="E:/pycharm/Learning/practice.py" />
       <jump line="22" column="0" filename="E:/pycharm/Learning/practice.py" />
       <jump line="21" column="19" filename="E:/pycharm/Learning/practice.py" />
+      <jump line="10" column="10" filename="E:/pycharm/Learning/双层装饰器.py" />
+      <jump line="9" column="7" filename="E:/pycharm/Learning/双层装饰器.py" />
+      <jump line="23" column="7" filename="E:/pycharm/Learning/双层装饰器.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -109,7 +113,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpdF9pc19wYXNzXD4=</text>
+        <text encoding="base64">XDxhbmltYWxfdHlwZVw+</text>
       </register>
       <register name="0" type="4">
         <text>import time
@@ -134,50 +138,40 @@ it_is_pass()
 it_is_ok(&quot;it is ok&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBARmlsZSAgICA6IHByYWN0aWNlLnB5Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB3cmFwcGVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGFuaW1hbF90eXBlID09ICJraXR0eSI6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aXRfaXNfcGFzcygpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QHRpbWVyCg==</text>
+        <text encoding="base64">ICAgICAgIGlmIGFuaW1hbF90eXBlID09ICJraXR0eSI6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aXRfaXNfcGFzcygpCg==</text>
+        <text encoding="base64">IyBARmlsZSAgICA6IHByYWN0aWNlLnB5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBpdF9pc19wYXNzID0gdGltZXIoaXRfaXNfcGFzcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aXRfaXNfcGFzcyA9IHRpbWVyKGl0X2lzX3Bhc3MpCg==</text>
+        <text encoding="base64">aXRfaXNfcGFzcygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aXRfaXNfcGFzcyA9IGNhbGNfdGltZShpdF9pc19wYXNzKQppdF9pc19wYXNzKCkK</text>
+        <text encoding="base64">QHRpbWVyCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>def calc_time(func):
-    start_time = time.time()
-    stop_time = time.time()
-    print (&quot;the func run time is %.2f&quot; %(stop_time - start_time))
-    return func
-
-def it_is_pass():
-    time.sleep(1)
-
-it_is_pass = calc_time(it_is_pass)
-it_is_pass()</text>
+      <register name="9" type="2">
+        <text encoding="base64">aXRfaXNfcGFzcygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpdF9pc19wYXNzXD4=</last-search>
+      <last-search encoding="base64">XDxhbmltYWxfdHlwZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpdF9pc19wYXNzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhbmltYWxfdHlwZVw+</last-pattern>
       <last-replace>rate</last-replace>
       <last-substitute>lilv</last-substitute>
       <last-dir>-1</last-dir>
@@ -188,6 +182,7 @@ it_is_pass()</text>
         <entry>lilv</entry>
         <entry encoding="base64">XDxhcHBlbmRcPg==</entry>
         <entry encoding="base64">XDxpdF9pc19wYXNzXD4=</entry>
+        <entry encoding="base64">XDxhbmltYWxfdHlwZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>set fileformat</entry>
