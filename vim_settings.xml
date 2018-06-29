@@ -15,7 +15,7 @@
         <mark key="^" line="26" column="25" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530281875822">
+      <file name="/Python Console" timestamp="1530283090641">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -64,6 +64,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="4" />
+      </file>
+      <file name="E:/pycharm/Learning/Next Send.py" timestamp="1530283850408">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="E:/pycharm/Learning/Learning.py" timestamp="1530173981418">
         <mark key="'" line="0" column="0" />
@@ -141,6 +147,7 @@
       <jump line="7" column="15" filename="E:/pycharm/Learning/Fibonacci.py" />
       <jump line="25" column="4" filename="E:/pycharm/Learning/Fibonacci.py" />
       <jump line="20" column="10" filename="E:/pycharm/Learning/Fibonacci.py" />
+      <jump line="0" column="0" filename="E:/pycharm/Learning/Next Send.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -152,35 +159,55 @@
       <register name="/" type="4">
         <text encoding="base64">XDxhbmltYWxfdHlwZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyAgICAgICAgIHByaW50ICgiJWQgIiAlYiwgZW5kPSIiKQo=</text>
+      <register name="0" type="4">
+        <text>n1 = yield r</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgICAgIHByaW50ICgiJWQgIiAlYiwgZW5kPSIiKQo=</text>
+        <text encoding="base64">ICAgIHByaW50IChhYSkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyAgICAgcHJpbnQgKDEsIiIsIGVuZD0iIikK</text>
+      <register name="2" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAog</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBiCg==</text>
+      <register name="3" type="8">
+        <text>1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIDEK</text>
+      <register name="4" type="8">
+        <text encoding="base64">MSBkCjIgIAozICAKNCAgCjUgIAo2ICAKNyAgCjggIAo5CjEwIAoxMSAKMTIgCjEzIAoxNCAKMTUgCjE2IAoxNyAKMTggCjE5CjIwIAoyMSA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBmaWJvbmFjY2koMTApCg==</text>
+        <text encoding="base64">IyAgICAgICAgIHByaW50ICgiJWQgIiAlYiwgZW5kPSIiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyAgICAgcHJpbnQgKDEsIiIsIGVuZD0iIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAoIiVkICIgJWIsIGVuZD0iIikK</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQgKG5leHQoTCkpIHByaW50IChuZXh0KEwpKQpwcmludCAobmV4dChMKSkK</text>
+        <text encoding="base64">ICAgIHlpZWxkIDEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQgKEwpCg==</text>
+        <text encoding="base64">IyBmaWJvbmFjY2koMTApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
