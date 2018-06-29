@@ -9,6 +9,12 @@
       <file name="/Dummy.txt" timestamp="1530263823888">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/pycharm/Learning/Fibonacci.py" timestamp="1530275314818">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="26" column="25" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1530263701305">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -130,46 +136,51 @@
       <jump line="9" column="7" filename="E:/pycharm/Learning/双层装饰器.py" />
       <jump line="23" column="7" filename="E:/pycharm/Learning/双层装饰器.py" />
       <jump line="0" column="0" filename="E:/pycharm/Learning/test.py" />
+      <jump line="0" column="0" filename="E:/pycharm/Learning/Fibonacci.py" />
+      <jump line="11" column="14" filename="E:/pycharm/Learning/Fibonacci.py" />
+      <jump line="7" column="15" filename="E:/pycharm/Learning/Fibonacci.py" />
+      <jump line="25" column="4" filename="E:/pycharm/Learning/Fibonacci.py" />
+      <jump line="20" column="10" filename="E:/pycharm/Learning/Fibonacci.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IyBAU2l0ZSAgICA6IAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmltYWxfdHlwZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TCA9ICggeCAqIHggZm9yIHggaW4gcmFuZ2UgKDEwMDAwKSkK</text>
+        <text encoding="base64">IyAgICAgICAgIHByaW50ICgiJWQgIiAlYiwgZW5kPSIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQgKG5leHQoTCkpIHByaW50IChuZXh0KEwpKQpwcmludCAobmV4dChMKSkK</text>
+        <text encoding="base64">IyAgICAgICAgIHByaW50ICgiJWQgIiAlYiwgZW5kPSIiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQgKEwpCg==</text>
+        <text encoding="base64">IyAgICAgcHJpbnQgKDEsIiIsIGVuZD0iIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Zm9yIG4gaW4gTDoKICAgIHByaW50KG4pCg==</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKGFyZ3Msa3dhcmdzKQo=</text>
+        <text encoding="base64">ICAgIHlpZWxkIDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKGFyZ3Msa3dhcmdzKQo=</text>
+        <text encoding="base64">IyBmaWJvbmFjY2koMTApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnVuYygqYXJncywqKmt3YXJncykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAoIiVkICIgJWIsIGVuZD0iIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQgKG5leHQoTCkpIHByaW50IChuZXh0KEwpKQpwcmludCAobmV4dChMKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQgKEwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -248,6 +259,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
