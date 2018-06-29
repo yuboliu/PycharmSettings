@@ -6,15 +6,15 @@
       <file name="/start_script.py" timestamp="1528469579586">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530172576204">
+      <file name="/Dummy.txt" timestamp="1530263823888">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530261610149">
+      <file name="/Python Console" timestamp="1530263701305">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/fragment.py" timestamp="1530261792094">
+      <file name="/fragment.py" timestamp="1530264157210">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/pycharm/Learning/双层装饰器.py" timestamp="1530259416583">
@@ -31,7 +31,7 @@
         <mark key="." line="51" column="39" />
         <mark key="^" line="51" column="39" />
       </file>
-      <file name="/a.dummy" timestamp="1530260780008">
+      <file name="/a.dummy" timestamp="1530264511261">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="G:/pycharm/Learning/Learning.py" timestamp="1524800794148">
@@ -47,7 +47,7 @@
         <mark key="^" line="24" column="17" />
       </file>
       <file name="E:/pycharm/Learning/单层装饰器.py" timestamp="1530259590364" />
-      <file name="E:/pycharm/Learning/Single_Decorate.py" timestamp="1530261807522">
+      <file name="E:/pycharm/Learning/Single_Decorate.py" timestamp="1530263782681">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -70,6 +70,13 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
+      </file>
+      <file name="E:/pycharm/Learning/test.py" timestamp="1530263681192">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="12" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="E:/PycharmProjects/First.py" timestamp="1524314564287">
         <mark key="[" line="6" column="43" />
@@ -116,6 +123,7 @@
       <jump line="10" column="10" filename="E:/pycharm/Learning/双层装饰器.py" />
       <jump line="9" column="7" filename="E:/pycharm/Learning/双层装饰器.py" />
       <jump line="23" column="7" filename="E:/pycharm/Learning/双层装饰器.py" />
+      <jump line="0" column="0" filename="E:/pycharm/Learning/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -127,27 +135,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxhbmltYWxfdHlwZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>import time
-
-def timer(func):
-    def deco(*args,**kwargs):
-        start_time = time.time()
-        func(*args,**kwargs)
-        stop_time = time.time()
-        print (&quot;the func run time is %f&quot; %(stop_time - start_time))
-    return deco
-
-@timer # it_is_pass = timer(it_is_pass)
-def it_is_pass():
-    print(&quot;it is pass&quot;)
-
-@timer
-def it_is_ok(name):
-    print (name)
-
-it_is_pass()
-it_is_ok(&quot;it is ok&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">cHJpbnQoIjEyMyIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKGFyZ3Msa3dhcmdzKQo=</text>
