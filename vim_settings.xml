@@ -9,20 +9,20 @@
       <file name="/Dummy.txt" timestamp="1530172576204">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1527687420376">
+      <file name="/Python Console" timestamp="1530261610149">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/fragment.py" timestamp="1527687411394">
+      <file name="/fragment.py" timestamp="1530261792094">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/pycharm/Learning/双层装饰器.py" timestamp="1530258377110">
-        <mark key="'" line="19" column="7" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="19" column="80" />
-        <mark key="." line="23" column="0" />
+      <file name="E:/pycharm/Learning/双层装饰器.py" timestamp="1530259416583">
+        <mark key="'" line="20" column="7" />
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="22" column="32" />
       </file>
       <file name="E:/Learning/Learning.py" timestamp="1524406001184">
         <mark key="'" line="31" column="6" />
@@ -31,7 +31,7 @@
         <mark key="." line="51" column="39" />
         <mark key="^" line="51" column="39" />
       </file>
-      <file name="/a.dummy" timestamp="1530257093260">
+      <file name="/a.dummy" timestamp="1530260780008">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="G:/pycharm/Learning/Learning.py" timestamp="1524800794148">
@@ -46,12 +46,24 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="24" column="17" />
       </file>
+      <file name="E:/pycharm/Learning/单层装饰器.py" timestamp="1530259590364" />
+      <file name="E:/pycharm/Learning/Single_Decorate.py" timestamp="1530261807522">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="23" column="4" />
+      </file>
       <file name="E:/pycharm/Learning/Learning.py" timestamp="1530173981418">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="159" column="0" />
         <mark key="]" line="165" column="30" />
         <mark key="^" line="142" column="11" />
         <mark key="." line="159" column="0" />
+      </file>
+      <file name="E:/pycharm/Learning/Double_Decorate.py" timestamp="1530261439701">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="E:/Learning/练习.py" timestamp="1524400637387">
         <mark key="[" line="5" column="20" />
@@ -138,31 +150,31 @@ it_is_pass()
 it_is_ok(&quot;it is ok&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBpdF9pc19wYXNzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKGFyZ3Msa3dhcmdzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKGFyZ3Msa3dhcmdzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBAdGltZXIgIyBpdF9pc19wYXNzID0gdGltZXIoaXRfaXNfcGFzcykKIyBkZWYgaXRfaXNfcGFzcygpOgojICAgICBwcmludCgiaXQgaXMgcGFzcyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVuYygqYXJncywqKmt3YXJncykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB3cmFwcGVyCg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGFuaW1hbF90eXBlID09ICJraXR0eSI6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIGlmIGFuaW1hbF90eXBlID09ICJraXR0eSI6Cg==</text>
+        <text encoding="base64">QHRpbWVyICMgaXRfaXNfcGFzcyA9IHRpbWVyKGl0X2lzX3Bhc3MpCmRlZiBpdF9pc19wYXNzKCk6CiAgICBwcmludCgiaXQgaXMgcGFzcyIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBARmlsZSAgICA6IHByYWN0aWNlLnB5Cg==</text>
+        <text encoding="base64">aXRfaXNfcGFzcygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
