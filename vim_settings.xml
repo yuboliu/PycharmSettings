@@ -20,7 +20,7 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/fragment.py" timestamp="1530264157210">
+      <file name="/fragment.py" timestamp="1530288864432">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/pycharm/Learning/双层装饰器.py" timestamp="1530259416583">
@@ -65,11 +65,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="4" />
       </file>
-      <file name="E:/pycharm/Learning/Next Send.py" timestamp="1530283850408">
+      <file name="E:/pycharm/Learning/Next Send.py" timestamp="1530288878186">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="19" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="E:/pycharm/Learning/Learning.py" timestamp="1530173981418">
         <mark key="'" line="0" column="0" />
@@ -163,12 +163,15 @@
         <text>n1 = yield r</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAobjEpCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIHByaW50IChhYSkK</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAog</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>1 
 2 
 3 
@@ -191,23 +194,20 @@
 20
 21</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text encoding="base64">MSBkCjIgIAozICAKNCAgCjUgIAo2ICAKNyAgCjggIAo5CjEwIAoxMSAKMTIgCjEzIAoxNCAKMTUgCjE2IAoxNyAKMTggCjE5CjIwIAoyMSA=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">IyAgICAgICAgIHByaW50ICgiJWQgIiAlYiwgZW5kPSIiKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">IyAgICAgcHJpbnQgKDEsIiIsIGVuZD0iIikK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB5aWVsZCBiCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIDEK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBmaWJvbmFjY2koMTApCg==</text>
+        <text encoding="base64">ICAgIHlpZWxkIDEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
