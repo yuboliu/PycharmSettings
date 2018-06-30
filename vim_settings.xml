@@ -58,17 +58,16 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="24" column="17" />
       </file>
-      <file name="E:/pycharm/Learning/单层装饰器.py" timestamp="1530259590364" />
       <file name="E:/pycharm/Learning/Single_Decorate.py" timestamp="1530263782681">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="4" />
       </file>
-      <file name="E:/pycharm/Learning/Next Send.py" timestamp="1530288878186">
+      <file name="E:/pycharm/Learning/Next Send.py" timestamp="1530329083871">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="26" column="13" />
         <mark key="." line="11" column="0" />
       </file>
       <file name="E:/pycharm/Learning/Learning.py" timestamp="1530173981418">
@@ -160,7 +159,7 @@
         <text encoding="base64">XDxhbmltYWxfdHlwZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>n1 = yield r</text>
+        <text>c = consumer()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCAobjEpCg==</text>
