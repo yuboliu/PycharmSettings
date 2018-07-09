@@ -83,6 +83,13 @@
         <mark key="]" line="26" column="13" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="E:/pycharm/Learning/Global_Local.py" timestamp="1531119570126">
+        <mark key="'" line="11" column="16" />
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+      </file>
       <file name="E:/pycharm/Learning/Learning.py" timestamp="1530173981418">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="159" column="0" />
@@ -166,6 +173,8 @@
       <jump line="7" column="5" filename="E:/pycharm/Learning/Format.py" />
       <jump line="14" column="39" filename="E:/pycharm/Learning/Format.py" />
       <jump line="8" column="5" filename="E:/pycharm/Learning/Format.py" />
+      <jump line="0" column="0" filename="E:/pycharm/Learning/Global_Local.py" />
+      <jump line="11" column="16" filename="E:/pycharm/Learning/Global_Local.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -178,27 +187,33 @@
         <text encoding="base64">XDxhbmltYWxfdHlwZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">cHJpbnQoZ2xvYmFscygpLmdldCgnbmFtZScpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGFnZSA9IDE2Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoKQpwcmludCAobG9jYWxzKCkuZ2V0KCduYW1lJykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2luZ2xlX3N0YXIoImEiLCAxMjMsIFRydWUpCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAobjEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">c2luZ2xlX3N0YXIoImEiLCAxMjMsIFRydWUpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAobjEpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaW50IChhYSkK</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAog</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text>1 
 2 
 3 
@@ -220,12 +235,6 @@
 19
 20
 21</text>
-      </register>
-      <register name="8" type="8">
-        <text encoding="base64">MSBkCjIgIAozICAKNCAgCjUgIAo2ICAKNyAgCjggIAo5CjEwIAoxMSAKMTIgCjEzIAoxNCAKMTUgCjE2IAoxNyAKMTggCjE5CjIwIAoyMSA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">IyAgICAgICAgIHByaW50ICgiJWQgIiAlYiwgZW5kPSIiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
