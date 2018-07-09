@@ -115,6 +115,13 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="E:/pycharm/Learning/Dictionary.py" timestamp="1531122569107">
+        <mark key="'" line="7" column="12" />
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="17" column="18" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="17" column="18" />
+      </file>
       <file name="E:/PycharmProjects/First.py" timestamp="1524314564287">
         <mark key="[" line="6" column="43" />
         <mark key="]" line="7" column="26" />
@@ -175,66 +182,48 @@
       <jump line="8" column="5" filename="E:/pycharm/Learning/Format.py" />
       <jump line="0" column="0" filename="E:/pycharm/Learning/Global_Local.py" />
       <jump line="11" column="16" filename="E:/pycharm/Learning/Global_Local.py" />
+      <jump line="0" column="0" filename="E:/pycharm/Learning/Dictionary.py" />
+      <jump line="7" column="12" filename="E:/pycharm/Learning/Dictionary.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">IyBAU2l0ZSAgICA6IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmltYWxfdHlwZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoZ2xvYmFscygpLmdldCgnbmFtZScpKQo=</text>
+        <text encoding="base64">cHJpbnQoc29ydGVkKG15X2RpY3QuaXRlbXMoKSwga2V5ID0gbGFtYmRhIHg6eFsxXSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFnZSA9IDE2Cg==</text>
+        <text encoding="base64">cHJpbnQoc29ydGVkKG15X2RpY3QuaXRlbXMoKSwga2V5ID0gbGFtYmRhIHg6eFswXSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoKQpwcmludCAobG9jYWxzKCkuZ2V0KCduYW1lJykpCg==</text>
+        <text encoding="base64">bXlfZGljdCA9IHsnTmFtZSc6ICJMaXVZdWJvIiwgJ0FnZSc6ICcxMDAnfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">bXlfZGljdCA9IHsnTmFtZSc6ICJMaXVZdWJvIiwgJ0FnZSc6IDEwMH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFnZSA9IDE2Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2luZ2xlX3N0YXIoImEiLCAxMjMsIFRydWUpCg==</text>
+        <text encoding="base64">cHJpbnQoKQpwcmludCAobG9jYWxzKCkuZ2V0KCduYW1lJykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAobjEpCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50IChhYSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAog</text>
+      <register name="8" type="2">
+        <text encoding="base64">c2luZ2xlX3N0YXIoImEiLCAxMjMsIFRydWUpCg==</text>
       </register>
-      <register name="9" type="8">
-        <text>1 
-2 
-3 
-4 
-5 
-6 
-7 
-8 
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAobjEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
