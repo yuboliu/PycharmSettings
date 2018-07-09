@@ -6,15 +6,6 @@
       <file name="/start_script.py" timestamp="1528469579586">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530263823888">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/pycharm/Learning/Fibonacci.py" timestamp="1530281846778">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="26" column="25" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1530283090641">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
@@ -58,13 +49,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="24" column="17" />
       </file>
-      <file name="E:/pycharm/Learning/Format.py" timestamp="1531106667809">
-        <mark key="'" line="8" column="5" />
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="16" column="5" />
-        <mark key="^" line="16" column="5" />
-        <mark key="." line="16" column="5" />
-      </file>
       <file name="E:/pycharm/Learning/Single_Decorate.py" timestamp="1530263782681">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -82,6 +66,47 @@
         <mark key="[" line="26" column="14" />
         <mark key="]" line="26" column="13" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="E:/pycharm/Learning/Pickle Serialization.py" timestamp="1531126908015">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="15" column="18" />
+        <mark key="^" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+      </file>
+      <file name="E:/pycharm/Learning/Pickle Deserialization.py" timestamp="1531126328472">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+      </file>
+      <file name="E:/PycharmProjects/First.py" timestamp="1524314564287">
+        <mark key="[" line="6" column="43" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+      </file>
+      <file name="E:/Learning/First.py" timestamp="1524367121182">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="15" column="13" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1530263823888">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/pycharm/Learning/Fibonacci.py" timestamp="1530281846778">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="26" column="25" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="E:/pycharm/Learning/Format.py" timestamp="1531106667809">
+        <mark key="'" line="8" column="5" />
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="16" column="5" />
+        <mark key="^" line="16" column="5" />
+        <mark key="." line="16" column="5" />
       </file>
       <file name="E:/pycharm/Learning/Global_Local.py" timestamp="1531119570126">
         <mark key="'" line="11" column="16" />
@@ -121,18 +146,6 @@
         <mark key="]" line="17" column="18" />
         <mark key="^" line="18" column="24" />
         <mark key="." line="17" column="18" />
-      </file>
-      <file name="E:/PycharmProjects/First.py" timestamp="1524314564287">
-        <mark key="[" line="6" column="43" />
-        <mark key="]" line="7" column="26" />
-        <mark key="." line="7" column="26" />
-        <mark key="^" line="7" column="26" />
-      </file>
-      <file name="E:/Learning/First.py" timestamp="1524367121182">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="5" column="20" />
-        <mark key="^" line="15" column="13" />
-        <mark key="." line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -184,6 +197,7 @@
       <jump line="11" column="16" filename="E:/pycharm/Learning/Global_Local.py" />
       <jump line="0" column="0" filename="E:/pycharm/Learning/Dictionary.py" />
       <jump line="7" column="12" filename="E:/pycharm/Learning/Dictionary.py" />
+      <jump line="0" column="0" filename="E:/pycharm/Learning/Pickle Serialization.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -199,31 +213,31 @@
         <text encoding="base64">cHJpbnQoc29ydGVkKG15X2RpY3QuaXRlbXMoKSwga2V5ID0gbGFtYmRhIHg6eFsxXSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoc29ydGVkKG15X2RpY3QuaXRlbXMoKSwga2V5ID0gbGFtYmRhIHg6eFswXSkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KG5hbWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bXlfZGljdCA9IHsnTmFtZSc6ICJMaXVZdWJvIiwgJ0FnZSc6ICcxMDAnfQo=</text>
+        <text encoding="base64">Zi53cml0ZShwaWNrbGUuZHVtcHMoaW5mbykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bXlfZGljdCA9IHsnTmFtZSc6ICJMaXVZdWJvIiwgJ0FnZSc6IDEwMH0K</text>
+        <text encoding="base64">aW5mbyA9IHsiTmFtZSI6IHByaW50X25hbWUsICJBZ2UiOiAxMDB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFnZSA9IDE2Cg==</text>
+        <text encoding="base64">cHJpbnQoc29ydGVkKG15X2RpY3QuaXRlbXMoKSwga2V5ID0gbGFtYmRhIHg6eFswXSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoKQpwcmludCAobG9jYWxzKCkuZ2V0KCduYW1lJykpCg==</text>
+        <text encoding="base64">bXlfZGljdCA9IHsnTmFtZSc6ICJMaXVZdWJvIiwgJ0FnZSc6ICcxMDAnfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">bXlfZGljdCA9IHsnTmFtZSc6ICJMaXVZdWJvIiwgJ0FnZSc6IDEwMH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFnZSA9IDE2Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2luZ2xlX3N0YXIoImEiLCAxMjMsIFRydWUpCg==</text>
+        <text encoding="base64">cHJpbnQoKQpwcmludCAobG9jYWxzKCkuZ2V0KCduYW1lJykpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAobjEpCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
