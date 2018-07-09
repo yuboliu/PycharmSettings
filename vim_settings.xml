@@ -58,6 +58,13 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="24" column="17" />
       </file>
+      <file name="E:/pycharm/Learning/Format.py" timestamp="1531106667809">
+        <mark key="'" line="8" column="5" />
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="16" column="5" />
+        <mark key="^" line="16" column="5" />
+        <mark key="." line="16" column="5" />
+      </file>
       <file name="E:/pycharm/Learning/Single_Decorate.py" timestamp="1530263782681">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -155,6 +162,10 @@
       <jump line="0" column="0" filename="E:/pycharm/Learning/Next Send.py" />
       <jump line="0" column="0" filename="E:/pycharm/Learning/Star.py" />
       <jump line="12" column="16" filename="E:/pycharm/Learning/Star.py" />
+      <jump line="5" column="14" filename="E:/pycharm/Learning/Format.py" />
+      <jump line="7" column="5" filename="E:/pycharm/Learning/Format.py" />
+      <jump line="14" column="39" filename="E:/pycharm/Learning/Format.py" />
+      <jump line="8" column="5" filename="E:/pycharm/Learning/Format.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
