@@ -4,6 +4,11 @@
     <option name="FONT_FAMILY" value="Source Code Pro" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Python" value="true" />
+      </map>
+    </option>
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
 </application>
