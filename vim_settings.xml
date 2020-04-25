@@ -32,7 +32,6 @@
         <entry>%s/identity_group/network_device/g</entry>
         <entry>set surround</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>set keep-english-in-normal</entry>
         <entry>set keep-english-in-normal-and-restore-in-insert</entry>
         <entry>let g:EasyMotion_override_acejump = 0</entry>
@@ -40,6 +39,7 @@
         <entry>set easymotion</entry>
         <entry>%s/filepath/base/</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,6 +125,12 @@
       <file name="/start_script.py" timestamp="1580875642371">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/OneDrive/Github/NetEngineerScripts/Python/CompareConfig/bin/Compare.py" timestamp="1587777546520">
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="19" column="20" />
+        <mark key="^" line="19" column="20" />
+        <mark key="." line="19" column="19" />
+      </file>
       <file name="/Dummy.txt" timestamp="1582692307941">
         <mark key="[" line="0" column="0" />
       </file>
@@ -148,14 +154,25 @@
       <file name="/fragment.py" timestamp="1580883416447">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/OneDrive/Github/NetEngineerScripts/Python/common_lib/__init__.py" timestamp="1587777581344">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="E:/OneDrive/Github/NetEngineerScript/Python/ISE/bin/NAS.py" timestamp="1580875953698">
         <mark key="'" line="99" column="25" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="39" />
         <mark key="^" line="98" column="25" />
       </file>
-      <file name="/a.dummy" timestamp="1581479480029">
-        <mark key="[" line="0" column="1" />
+      <file name="/a.dummy" timestamp="1587776941867">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/OneDrive/Github/NetEngineerScripts/Python/common_lib/lib.py" timestamp="1587777477418">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="0" />
       </file>
       <file name="E:/OneDrive/Github/NetEngineerScript/Python/CompareConfig/bin/main.py" timestamp="1581479391875">
         <mark key="'" line="22" column="0" />
@@ -164,12 +181,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="83" column="17" />
       </file>
-      <file name="E:/OneDrive/Github/NetEngineerScripts/Python/CombingConfig/bin/Combing.py" timestamp="1584757424831">
+      <file name="E:/OneDrive/Github/NetEngineerScripts/Python/CombingConfig/bin/Combing.py" timestamp="1587776889457">
         <mark key="'" line="73" column="0" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="^" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="42" />
+        <mark key="^" line="19" column="42" />
+        <mark key="." line="19" column="41" />
       </file>
       <file name="E:/OneDrive/Github/NetEngineerScript/Python/BackupConfig/bin/Backup.py" timestamp="1581476905821">
         <mark key="'" line="35" column="35" />
@@ -178,9 +195,11 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="110" column="21" />
       </file>
-      <file name="E:/OneDrive/Github/NetEngineerScripts/Python/BackupConfig/lib/BackupConfigSettings.py" timestamp="1582680594148">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="33" />
+      <file name="E:/OneDrive/Github/NetEngineerScripts/Python/BackupConfig/lib/BackupConfigSettings.py" timestamp="1587777286514">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="24" />
+        <mark key="^" line="20" column="24" />
+        <mark key="." line="20" column="23" />
       </file>
       <file name="E:/OneDrive/Github/NetEngineerScripts/Python/GoFirewall/lib/ConfigSettings.py" timestamp="1582681086978">
         <mark key="[" line="8" column="32" />
@@ -202,19 +221,6 @@
       </file>
       <file name="/" timestamp="1586760541881">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/OneDrive/Github/NetEngineerScript/Python/ISE/lib/ISEsettings.py" timestamp="1579610566280">
-        <mark key="[" line="18" column="59" />
-        <mark key="]" line="18" column="76" />
-        <mark key="." line="18" column="76" />
-        <mark key="^" line="18" column="76" />
-      </file>
-      <file name="E:/OneDrive/Github/NetEngineerScript/Python/ISE/bin/ISE.py" timestamp="1579446801724">
-        <mark key="'" line="69" column="24" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
-        <mark key="^" line="151" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -323,46 +329,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxpYi5Db25maWdTZXR0aW5ncwo=</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>filepath</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciByb290LCBkaXJzLCBmaWxlcyBpbiBvcy53YWxrKGJhc2UpOgo=</text>
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKG9zLnBhdGguYWJzcGF0aCgiLi4vIikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxpYi5Db25maWdTZXR0aW5ncwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIxMjMiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdvcmtib29rLmNsb3NlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIGRhdGFfZGljdAo=</text>
+        <text encoding="base64">ZGVmIGxvZygpOgogICAgbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQogICAgbG9nZ2VyLnNldExldmVsKGxvZ2dpbmcuSU5GTykKICAgIGZoID0gbG9nZ2luZy5GaWxlSGFuZGxlcignLi5cXGxvZ1xcezB9LmxvZycuZm9ybWF0KHRvZGF5KSkKICAgIGNoID0gbG9nZ2luZy5TdHJlYW1IYW5kbGVyKCkKICAgIGZvcm1hdHRlciA9IGxvZ2dpbmcuRm9ybWF0dGVyKCclKGFzY3RpbWUpcyAlKGZpbGVuYW1lKXNbbGluZTolKGxpbmVubylkXSAlKGxldmVsbmFtZSlzICUobWVzc2FnZSlzJykKICAgIGZoLnNldEZvcm1hdHRlcihmb3JtYXR0ZXIpCiAgICBjaC5zZXRGb3JtYXR0ZXIoZm9ybWF0dGVyKQogICAgbG9nZ2VyLmFkZEhhbmRsZXIoZmgpCiAgICBsb2dnZXIuYWRkSGFuZGxlcihjaCkKICAgIHJldHVybiBsb2dnZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdvcmtib29rLmNsb3NlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRhdGFfdG9fZXhjZWxfdG93KHdvcmtib29rKQo=</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChrZXkpCiAgICAgICAgcHJpbnQoZFtrZXldKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByb3cgKz0gMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm93ICs9IDEK</text>
+        <text encoding="base64">aW1wb3J0IGxpYi5Db25maWdTZXR0aW5ncwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
