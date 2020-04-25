@@ -125,11 +125,12 @@
       <file name="/start_script.py" timestamp="1580875642371">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/OneDrive/Github/NetEngineerScripts/Python/CompareConfig/bin/Compare.py" timestamp="1587777546520">
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="19" column="20" />
-        <mark key="^" line="19" column="20" />
-        <mark key="." line="19" column="19" />
+      <file name="E:/OneDrive/Github/NetEngineerScripts/Python/CompareConfig/bin/Compare.py" timestamp="1587778546551">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="17" column="12" />
+        <mark key="." line="17" column="12" />
+        <mark key="^" line="17" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1582692307941">
         <mark key="[" line="0" column="0" />
@@ -140,24 +141,26 @@
         <mark key="^" line="29" column="44" />
         <mark key="." line="29" column="44" />
       </file>
-      <file name="/Python Console" timestamp="1582704797559">
+      <file name="/Python Console" timestamp="1587778471414">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="E:/OneDrive/Github/NetEngineerScripts/Python/BackupConfig/bin/Backup.py" timestamp="1582681008121">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="58" />
+      <file name="E:/OneDrive/Github/NetEngineerScripts/Python/BackupConfig/bin/Backup.py" timestamp="1587778521290">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
       </file>
       <file name="/fragment.py" timestamp="1580883416447">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/OneDrive/Github/NetEngineerScripts/Python/common_lib/__init__.py" timestamp="1587777581344">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="E:/OneDrive/Github/NetEngineerScripts/Python/common_lib/__init__.py" timestamp="1587777961248">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="E:/OneDrive/Github/NetEngineerScript/Python/ISE/bin/NAS.py" timestamp="1580875953698">
         <mark key="'" line="99" column="25" />
@@ -168,11 +171,10 @@
       <file name="/a.dummy" timestamp="1587776941867">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/OneDrive/Github/NetEngineerScripts/Python/common_lib/lib.py" timestamp="1587777477418">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="0" />
+      <file name="E:/OneDrive/Github/NetEngineerScripts/Python/common_lib/lib.py" timestamp="1587777927785">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="31" column="8" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="E:/OneDrive/Github/NetEngineerScript/Python/CompareConfig/bin/main.py" timestamp="1581479391875">
         <mark key="'" line="22" column="0" />
@@ -181,12 +183,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="83" column="17" />
       </file>
-      <file name="E:/OneDrive/Github/NetEngineerScripts/Python/CombingConfig/bin/Combing.py" timestamp="1587776889457">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="42" />
-        <mark key="^" line="19" column="42" />
-        <mark key="." line="19" column="41" />
+      <file name="E:/OneDrive/Github/NetEngineerScripts/Python/CombingConfig/bin/Combing.py" timestamp="1587778533671">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="12" />
+        <mark key="." line="15" column="12" />
       </file>
       <file name="E:/OneDrive/Github/NetEngineerScript/Python/BackupConfig/bin/Backup.py" timestamp="1581476905821">
         <mark key="'" line="35" column="35" />
@@ -219,12 +220,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="76" />
       </file>
-      <file name="/" timestamp="1586760541881">
+      <file name="/" timestamp="1587779058973">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="23" filename="E:/OneDrive/Github/NetEngineerScript/Python/ISE/bin/ISE.py" />
       <jump line="148" column="26" filename="E:/OneDrive/Github/NetEngineerScript/Python/ISE/bin/ISE.py" />
       <jump line="21" column="0" filename="E:/OneDrive/Github/NetEngineerScript/Python/ISE/bin/ISE.py" />
       <jump line="153" column="0" filename="E:/OneDrive/Github/NetEngineerScript/Python/ISE/bin/ISE.py" />
@@ -324,48 +324,49 @@
       <jump line="78" column="17" filename="E:/OneDrive/Github/NetEngineerScripts/Python/CombingConfig/bin/Combing.py" />
       <jump line="91" column="0" filename="E:/OneDrive/Github/NetEngineerScripts/Python/CombingConfig/bin/Combing.py" />
       <jump line="73" column="0" filename="E:/OneDrive/Github/NetEngineerScripts/Python/CombingConfig/bin/Combing.py" />
+      <jump line="95" column="0" filename="E:/OneDrive/Github/NetEngineerScripts/Python/CompareConfig/bin/Compare.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGxpYi5Db25maWdTZXR0aW5ncwo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>filepath</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKG9zLnBhdGguYWJzcGF0aCgiLi4vIikpCg==</text>
+        <text encoding="base64">ZnJvbSBjb21tb25fbGliIGltcG9ydCBsb2cgYXMgbG9nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxpYi5Db25maWdTZXR0aW5ncwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGxvZyhsZXZlbCk6CiAgICBpbXBvcnQgbG9nZ2luZwogICAgZ29fbGV2ZWwgPSB7ImluZm8iOiBsb2dnaW5nLklORk8sICJlcnJvciI6IGxvZ2dpbmcuRVJST1IsICJkZWJ1ZyI6IGxvZ2dpbmcuREVCVUcsICJ3YXJuaW5nIjogbG9nZ2luZy5XQVJOSU5HLAogICAgICAgICAgICAgICAgImNyaXRpY2FsIjogbG9nZ2luZy5DUklUSUNBTH0KICAgIGxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCkKICAgIGxvZ2dlci5zZXRMZXZlbChnb19sZXZlbFtsZXZlbF0pCiAgICBmaCA9IGxvZ2dpbmcuRmlsZUhhbmRsZXIoJy4uXFxsb2dcXHswfS5sb2cnLmZvcm1hdCh0b2RheSkpCiAgICBjaCA9IGxvZ2dpbmcuU3RyZWFtSGFuZGxlcigpCiAgICBmb3JtYXR0ZXIgPSBsb2dnaW5nLkZvcm1hdHRlcignJShhc2N0aW1lKXMgJShmaWxlbmFtZSlzW2xpbmU6JShsaW5lbm8pZF0gJShsZXZlbG5hbWUpcyAlKG1lc3NhZ2UpcycpCiAgICBmaC5zZXRGb3JtYXR0ZXIoZm9ybWF0dGVyKQogICAgY2guc2V0Rm9ybWF0dGVyKGZvcm1hdHRlcikKICAgIGxvZ2dlci5hZGRIYW5kbGVyKGZoKQogICAgbG9nZ2VyLmFkZEhhbmRsZXIoY2gpCiAgICByZXR1cm4gbG9nZ2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGxvZygpOgogICAgbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoKQogICAgbG9nZ2VyLnNldExldmVsKGxvZ2dpbmcuSU5GTykKICAgIGZoID0gbG9nZ2luZy5GaWxlSGFuZGxlcignLi5cXGxvZ1xcezB9LmxvZycuZm9ybWF0KHRvZGF5KSkKICAgIGNoID0gbG9nZ2luZy5TdHJlYW1IYW5kbGVyKCkKICAgIGZvcm1hdHRlciA9IGxvZ2dpbmcuRm9ybWF0dGVyKCclKGFzY3RpbWUpcyAlKGZpbGVuYW1lKXNbbGluZTolKGxpbmVubylkXSAlKGxldmVsbmFtZSlzICUobWVzc2FnZSlzJykKICAgIGZoLnNldEZvcm1hdHRlcihmb3JtYXR0ZXIpCiAgICBjaC5zZXRGb3JtYXR0ZXIoZm9ybWF0dGVyKQogICAgbG9nZ2VyLmFkZEhhbmRsZXIoZmgpCiAgICBsb2dnZXIuYWRkSGFuZGxlcihjaCkKICAgIHJldHVybiBsb2dnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">ZGVmIGxvZyhsZXZlbCk6CiAgICBpbXBvcnQgbG9nZ2luZwogICAgZ29fbGV2ZWwgPSB7ImluZm8iOiBsb2dnaW5nLklORk8sICJlcnJvciI6IGxvZ2dpbmcuRVJST1IsICJkZWJ1ZyI6IGxvZ2dpbmcuREVCVUcsICJ3YXJuaW5nIjogbG9nZ2luZy5XQVJOSU5HLAogICAgICAgICAgICAgICAgImNyaXRpY2FsIjogbG9nZ2luZy5DUklUSUNBTH0KICAgIGxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCkKICAgIGxvZ2dlci5zZXRMZXZlbChnb19sZXZlbFtsZXZlbF0pCiAgICBmaCA9IGxvZ2dpbmcuRmlsZUhhbmRsZXIoJy4uXFxsb2dcXHswfS5sb2cnLmZvcm1hdCh0b2RheSkpCiAgICBjaCA9IGxvZ2dpbmcuU3RyZWFtSGFuZGxlcigpCiAgICBmb3JtYXR0ZXIgPSBsb2dnaW5nLkZvcm1hdHRlcignJShhc2N0aW1lKXMgJShmaWxlbmFtZSlzW2xpbmU6JShsaW5lbm8pZF0gJShsZXZlbG5hbWUpcyAlKG1lc3NhZ2UpcycpCiAgICBmaC5zZXRGb3JtYXR0ZXIoZm9ybWF0dGVyKQogICAgY2guc2V0Rm9ybWF0dGVyKGZvcm1hdHRlcikKICAgIGxvZ2dlci5hZGRIYW5kbGVyKGZoKQogICAgbG9nZ2VyLmFkZEhhbmRsZXIoY2gpCiAgICByZXR1cm4gbG9nZ2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IC4uL2xpYi5CYWNrdXBDb25maWdTZXR0aW5ncwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoc3lzLnBhdGgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGxpYi5Db25maWdTZXR0aW5ncwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
