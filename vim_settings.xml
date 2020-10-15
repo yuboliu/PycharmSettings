@@ -110,6 +110,9 @@
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed SEMICOLON</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -385,19 +388,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed U</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor />
+    <state version="7" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
