@@ -1,10 +1,14 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="compactMenus" value="true" />
+    <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
+    <option name="accentMode" value="true" />
     <option name="isCompactMenus" value="true" />
+    <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
@@ -17,5 +21,6 @@
     <option name="selectedTheme" value="SOLARIZED_DARK" />
     <option name="userId" value="2323ee30:16f6498f221:-8000" />
     <option name="version" value="5.2.0" />
+    <option name="tabHighlightPosition" value="Left-Right" />
   </component>
 </application>
