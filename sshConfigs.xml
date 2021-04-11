@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="192.168.239.33" id="a3d85a42-cff2-4482-8eb5-98cd3571947c" port="22" customName="root@192.168.239.33:22" nameFormat="CUSTOM" username="root">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.239.33" id="a3d85a42-cff2-4482-8eb5-98cd3571947c" port="22" customName="root@192.168.239.33:22" nameFormat="CUSTOM" username="root">
         <option name="customName" value="root@192.168.239.33:22" />
       </sshConfig>
     </configs>
